@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\nttan\OneDrive\Documents\Visual Studio 2022\Exercise\res-1597892381-1597892381587\Infix\Infix\Source.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nttan\OneDrive\Documents\Visual Studio 2022\Exercise\res-1597892381-1597892381587\Infix\Infix\Source.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nttan\OneDrive\Documents\Visual Studio 2022\Exercise\res-1597892381-1597892381587\Infix\Infix\Source.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nttan\OneDrive\Documents\Visual Studio 2022\Exercise\res-1597892381-1597892381587\Infix\Infix\Source.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+  Infix.vcxproj -> C:\Users\nttan\OneDrive\Documents\Visual Studio 2022\Exercise\res-1597892381-1597892381587\Infix\Debug\Infix.exe
